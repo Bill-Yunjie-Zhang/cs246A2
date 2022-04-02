@@ -5,8 +5,8 @@
 Python 3.8.10
 
 Written by two student: 
-Student1 : l438chen 20757818
-Student2 : y3446zha 20872676
+Student1 : xxxxxxxx xxxxxxxx
+Student2 : xxxxxxxx xxxxxxxx
 
 
 Before running the programe, we need make sure there is a file that need to be sent, the python file $sender.py$ on sender side and the python file $receiver.py$ on receiver side
